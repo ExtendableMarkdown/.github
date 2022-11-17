@@ -1,12 +1,4 @@
-## Hi there 👋
+# ExtendableMarkdown
 
-<!--
+ExtendableMarkdown是一种基于markdown语法开发出的一种全新的文件格式，致力于为传统的markdown增加可供扩展的插件系统支持，使markdown的功能更加强大。
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
